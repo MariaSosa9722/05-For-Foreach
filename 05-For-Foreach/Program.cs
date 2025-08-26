@@ -35,7 +35,11 @@ int[] Numeros = { 1, 2,3, 4 };
 //}
 
 
-ejercicio ejercicio = new ejercicio();
-ejercicio.inicio();
+//ejercicio ejercicio = new ejercicio();
+//ejercicio.inicio();
+
+
+Persona persona = new Persona();
+persona.imprimirPersona();
 
 
